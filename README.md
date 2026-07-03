@@ -2,21 +2,25 @@
 
 
 
-### **Features**
+## **Introduction**
 
-\- Add Task
-
-\- View Tasks
-
-\- Update Task
-
-\- Delete Task
-
-\- Input Validation
+*The Console ToDo App is a minimalistic task management application that runs in the console. It allows users to create, update, and delete tasks, helping them stay organized and focused.*
 
 
 
-### **Tech Stack**
+## **Features**
+
+* **Add Task** : Easily add new tasks with title and optional description
+* **View Tasks :** Display a list of all tasks with their details.
+* **Update Task :** Modify task details and mark completed once it is done.
+* **Delete Task :** Remove unwanted task from the list.
+* **Input Validation :** Does a validation ensuring the numeric input contains only digits.  
+
+
+
+
+
+## **Tech Stack**
 
 \- Java
 
@@ -26,7 +30,9 @@
 
 
 
-### **Architecture**
+
+
+## **Architecture**
 
 
 
@@ -50,7 +56,11 @@ ArrayList
 
 
 
-#### **Concepts Used**
+
+
+
+
+## **Concepts Used**
 
 \- OOP
 
