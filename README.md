@@ -1,8 +1,8 @@
-\#### **TO-DO Console Application**
+# **TO-DO Console Application**
 
 
 
-\## Features
+### **Features**
 
 \- Add Task
 
@@ -16,7 +16,7 @@
 
 
 
-\## Tech Stack
+### **Tech Stack**
 
 \- Java
 
@@ -26,7 +26,7 @@
 
 
 
-\## Architecture
+### **Architecture**
 
 
 
@@ -50,7 +50,7 @@ ArrayList
 
 
 
-\## Concepts Used
+#### **Concepts Used**
 
 \- OOP
 
